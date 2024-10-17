@@ -1,4 +1,3 @@
-Here’s how you can adapt a similar layout for your GitHub profile:
 
 ---
 
