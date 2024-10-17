@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate and detail-oriented Data Science professional specializing in Machine Learning, Data Analytics, and API Development. I enjoy transforming complex data into actionable insights and creating meaningful solutions for real-world problems. 
 
-## 🌟 *"What if data could shape our future? Let’s explore!
+## 🌟 What if data could shape our future? Let’s explore!
 
 ## 🚀 About Me
 
