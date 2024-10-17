@@ -1,4 +1,4 @@
-
+Here's the updated profile with **Flask** and **React (Expo)** added to the skills section:
 
 ---
 
@@ -18,17 +18,15 @@ education:
   - ["Master's in Data Science, Christ University, Bangalore"]
 fields_of_interest: 
   - ["Data Science", "Machine Learning", "Natural Language Processing", "API Development"]
-currently_learning: 
+currently_working_on: 
   - ["Transfer Learning", "LangChain", "MLOps"]
-will_learn: 
-  - ["Adversarial Machine Learning", "AI Security Concepts"]
 hobbies: 
-  - ["Music", "Cinema", "Driving"]
+  - ["Cinema", "Gardening", "Music"]
 ```
 
 ## 🛠️ My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,r,tensorflow,linux,git,github,docker,fastapi,mysql,aws)](https://www.linkedin.com/in/balasankar-p-715230215)
+[![My Skills](https://skillicons.dev/icons?i=py,r,tensorflow,linux,git,github,docker,fastapi,mysql,aws,flask,react)](https://www.linkedin.com/in/balasankar-p-715230215)
 
 - **Python**: My go-to language for data analysis, machine learning, and web development.
 - **R**: Statistical computing and data visualization.
@@ -39,6 +37,8 @@ hobbies:
 - **FastAPI**: Efficient API development.
 - **MySQL**: Database management for large-scale applications.
 - **AWS**: Cloud computing services for scalable and reliable systems.
+- **Flask**: Lightweight web application framework for Python.
+- **React (Expo)**: Frontend development framework for building mobile apps.
 
 ## 📊 GitHub Stats
 
@@ -50,11 +50,11 @@ hobbies:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BALASANKARP&theme=dark" alt="GitHub Streak" />
 </div>
 
-## 🌱 Currently Learning
+## 🌱 Currently Working On
 
 - Transfer Learning and its applications in NLP.
 - Advanced topics in **MLOps** for scalable model deployments.
-- Exploring the power of **LangChain** and adversarial machine learning.
+- Exploring the power of **LangChain**.
 
 ## 💬 Let’s Connect
 
@@ -68,3 +68,4 @@ hobbies:
 
 ---
 
+This version includes **Flask** and **React (Expo)** to showcase your full stack development skills.
