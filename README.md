@@ -26,9 +26,6 @@ Welcome to my GitHub profile! I'm a passionate and detail-oriented Data Science 
 - **MySQL**: Database management for large-scale applications.
 - **AWS**: Cloud computing services for scalable and reliable systems.
 
-## 🏆 Achievements
-
-![trophy](https://github-profile-trophy.vercel.app/?username=BALASANKARP&theme=onedark&no-bg=true)
 
 ## 📊 GitHub Stats
 
