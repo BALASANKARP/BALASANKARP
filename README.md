@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate and detail-oriented Data Science 
 
 - 🎓 Currently pursuing a **Master's in Data Science** at Christ University, Bangalore.
 - 🔍 Fascinated by **Data Science**, **Machine Learning**, and **Natural Language Processing**.
-- 🤖 Experienced in building **AI-based solutions** for patent classification and metadata extraction.
+- 🤖 Experienced in building **AI-based solutions**.
 - 💼 Seeking to apply my skills to **real-world projects** that deliver actionable insights.
 - 🌐 Explore my [LinkedIn](https://www.linkedin.com/in/balasankar-p-715230215) for professional insights.
 
