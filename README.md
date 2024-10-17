@@ -58,4 +58,4 @@ hobbies: ["Music", "Tech Blogging", "Travelling"]
 
 ---
 
-This layout includes your professional information, skills, stats, and contact links, following the style you referenced. You can further customize it by adding or removing sections.
+
