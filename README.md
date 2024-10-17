@@ -1,6 +1,8 @@
 # Hi there, I'm Balasankar P 👋
 
-Welcome to my GitHub profile! I'm a passionate and detail-oriented Data Science professional specializing in Machine Learning, Data Analytics, and API Development. My work involves using cutting-edge technologies to drive data-driven decision-making and innovation.
+Welcome to my GitHub profile! I'm a passionate and detail-oriented Data Science professional specializing in Machine Learning, Data Analytics, and API Development. I enjoy transforming complex data into actionable insights and creating meaningful solutions for real-world problems. 🚀
+
+## 🌟 *"Data is the new oil, and I'm here to refine it!"*
 
 ## 🚀 About Me
 
@@ -12,18 +14,21 @@ Welcome to my GitHub profile! I'm a passionate and detail-oriented Data Science 
 
 ## 🛠️ My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,r,tensorflow,pandas,linux,git,github,docker,fastapi,mysql,aws)](https://www.linkedin.com/in/balasankar-p-715230215)
+[![My Skills](https://skillicons.dev/icons?i=py,r,tensorflow,linux,git,github,docker,fastapi,mysql,aws)](https://www.linkedin.com/in/balasankar-p-715230215)
 
 - **Python**: My go-to language for data analysis, machine learning, and web development.
 - **R**: Statistical computing and data visualization.
 - **TensorFlow**: Experience in building machine learning models.
-- **Pandas**: Data manipulation and analysis for structured data.
 - **Linux**: Comfortable with Linux for development environments and deployments.
 - **Git & GitHub**: Version control and collaboration on open-source projects.
 - **Docker**: Containerization for seamless application deployment.
 - **FastAPI**: Efficient API development.
 - **MySQL**: Database management for large-scale applications.
 - **AWS**: Cloud computing services for scalable and reliable systems.
+
+## 🏆 Achievements
+
+![trophy](https://github-profile-trophy.vercel.app/?username=BALASANKARP&theme=onedark&no-bg=true)
 
 ## 📊 GitHub Stats
 
