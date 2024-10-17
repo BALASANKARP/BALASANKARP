@@ -1,8 +1,8 @@
 # Hi there, I'm Balasankar P 👋
 
-Welcome to my GitHub profile! I'm a passionate and detail-oriented Data Science professional specializing in Machine Learning, Data Analytics, and API Development. I enjoy transforming complex data into actionable insights and creating meaningful solutions for real-world problems. 🚀
+Welcome to my GitHub profile! I'm a passionate and detail-oriented Data Science professional specializing in Machine Learning, Data Analytics, and API Development. I enjoy transforming complex data into actionable insights and creating meaningful solutions for real-world problems. 
 
-## 🌟 *"Data is the new oil, and I'm here to refine it!"*
+## 🌟 *"What if data could shape our future? Let’s explore!
 
 ## 🚀 About Me
 
