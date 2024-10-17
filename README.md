@@ -1,4 +1,4 @@
-Here's the updated profile with **Flask** and **React (Expo)** added to the skills section:
+
 
 ---
 
@@ -68,4 +68,4 @@ hobbies:
 
 ---
 
-This version includes **Flask** and **React (Expo)** to showcase your full stack development skills.
+
