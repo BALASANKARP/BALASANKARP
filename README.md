@@ -2,7 +2,7 @@
 
 ---
 
-# Hi, I'm Balasankar P 👋
+# Hi, I'm Balasankar  👋
 
 Step into my GitHub, where data meets innovation! As a Data Science professional with a knack for Machine Learning, Data Analytics, and AI Development, I turn data-driven challenges into impactful solutions, one algorithm at a time. Let’s shape the future, together! 🚀
 
