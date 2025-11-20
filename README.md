@@ -6,9 +6,9 @@
 
 Step into my GitHub, where data meets innovation! As a Data Science professional with a knack for Machine Learning, Data Analytics, and AI Development, I turn data-driven challenges into impactful solutions, one algorithm at a time. Let’s shape the future, together! 🚀
 
-## 🌟 *"What if data could shape our future? Let’s explore!"*
+##  *"What if data could shape our future? Let’s explore!"*
 
-## 🚀 About Me
+##  About Me
 
 ```yaml
 name: Balasankar P
@@ -50,13 +50,13 @@ hobbies:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BALASANKARP&theme=dark" alt="GitHub Streak" />
 </div>
 
-## 🌱 Currently Working On
+##  Currently Working On
 
 - Transfer Learning and its applications in NLP.
 - Advanced topics in **MLOps** for scalable model deployments.
 - Exploring the power of **LangChain**.
 
-## 💬 Let’s Connect
+##  Let’s Connect
 
 - LinkedIn: [Balasankar P](https://www.linkedin.com/in/balasankar-p-715230215)
 - GitHub: [BALASANKARP](https://github.com/BALASANKARP)
